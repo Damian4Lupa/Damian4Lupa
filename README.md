@@ -18,7 +18,7 @@ I am currently looking for new development opportunities as a junior Front-end D
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)]()
 [![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)]()
-[![Styled Components](https://img.shields.io/badge/-Styled Components-orange?style=flat-square&logo=Styled-Components&logoColor=white)]()
+[![Styled Components](https://img.shields.io/badge/-Styled%20Components-orange?style=flat-square&logo=Styled-Components&logoColor=white)]()
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
 [![React Router](https://img.shields.io/badge/-React%20Router-424242?style=flat-square&logo=React-Router&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=Bootstrap&logoColor=white)]()
