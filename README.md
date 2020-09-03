@@ -19,7 +19,7 @@ I am currently looking for new development opportunities as a junior Front-end D
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)]()
 [![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)]()
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-orange?style=flat-square&logo=Styled-Components&logoColor=white)]()
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)]()
 [![React Router](https://img.shields.io/badge/-React%20Router-424242?style=flat-square&logo=React-Router&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=Bootstrap&logoColor=white)]()
 [![jQuery](https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jQuery&logoColor=white)]()
@@ -38,5 +38,6 @@ I am currently looking for new development opportunities as a junior Front-end D
 [![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)]()
 [![Gulp](https://img.shields.io/badge/-Gulp-cf4647?style=flat-square&logo=Gulp&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white)]()
+[![Python](https://img.shields.io/badge/-Python-3673a6?style=flat-square&logo=Python&logoColor=white)]()
 
 ## Check out my projects :arrow_down:
