@@ -14,30 +14,27 @@ I am currently looking for new development opportunities as a junior Front-end D
 
 ### :+1: I can:
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)]()
-[![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)]()
-[![Styled Components](https://img.shields.io/badge/-Styled%20Components-orange?style=flat-square&logo=Styled-Components&logoColor=white)]()
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)]()
-[![React Router](https://img.shields.io/badge/-React%20Router-424242?style=flat-square&logo=React-Router&logoColor=white)]()
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=Bootstrap&logoColor=white)]()
-[![jQuery](https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jQuery&logoColor=white)]()
-
+<img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat"/>
+<img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3&style=flat"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat"/>
+<img alt="React" src="https://img.shields.io/badge/React-00CCFF?logo=react&logoColor=white&style=flat"/>
+<img alt="React Router" src="https://img.shields.io/badge/ReactRouter-black?logo=React-Router&logoColor=white&style=flat"/>
+<img alt="Styled-components" src="https://img.shields.io/badge/StyledComponents-pink?logo=Styled-Components&logoColor=white&style=flat"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=flat"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952b3?logo=bootstrap&logoColor=white&style=flat"/>
+<img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769ad?logo=jquery&logoColor=white&style=flat"/>
 
 ### :mortar_board: I'm learning:
 
-[![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)]()
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)]()
+   <img alt='Sass' src="https://img.shields.io/badge/Sass-pink?logo=sass&logoColor=white&style=flat"/>
+   <img alt="Redux" src="https://img.shields.io/badge/Redux-black?logo=redux&style=flat"/>
 
 ### :dart: I will learn:
 
-[![node.js](https://img.shields.io/badge/-node.js-539e43?style=flat-square&logo=node.js&logoColor=white)]()
-[![Sass](https://img.shields.io/badge/-Sass-pink?style=flat-square&logo=Sass)]()
-[![Gatsby](https://img.shields.io/badge/-Gatsby-purple?style=flat-square&logo=Gatsby&logoColor=white)]()
-[![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)]()
-[![Gulp](https://img.shields.io/badge/-Gulp-cf4647?style=flat-square&logo=Gulp&logoColor=white)]()
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white)]()
-[![Python](https://img.shields.io/badge/-Python-3673a6?style=flat-square&logo=Python&logoColor=white)]()
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white&style=flat"/>
+<img alt='Node.JS' src="https://img.shields.io/badge/Node.JS-green?logo=node.js&logoColor=white&style=flat"/>
+<img alt="Webpack" src="https://img.shields.io/badge/Webpack-blue?logo=webpack&logoColor=white&style=flat"/>    
+<img alt='GraphQL' src="https://img.shields.io/badge/GraphQL-magenta?logo=graphql&logoColor=white&style=flat"/>
+<img alt='Python' src="https://img.shields.io/badge/Python-3673a6?logo=python&logoColor=white&style=flat"/>
 
 ## Check out my projects :arrow_down:
